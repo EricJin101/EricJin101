@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EricJin101
-- 👀 I’m interested in Cycling and making money
+- 👀 I’m interested in Cycling
 - 🌱 I’m currently learning C++ and how to loose weight
 - 💞️ I’m looking to collaborate on auto driving
 

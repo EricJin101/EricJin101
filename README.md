@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=你的名字&fontSize=60" />
+</p>
 - 👋 Hi, I’m @EricJin101
 - 👀 I’m interested in Cycling
 - 🌱 I’m currently learning C++ and how to loose weight
